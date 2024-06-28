@@ -1,0 +1,5 @@
+Antes de executar qualquer código, é crucial realizar o seguinte passo importante no terminal:
+
+pip install opencv-python roboflow
+
+Esta linha de comando automatizará a instalação do Roboflow, onde nosso modelo está armazenado, além do OpenCV. O OpenCV é essencial para abrir vídeos e imagens e será utilizado para essa funcionalidade.
